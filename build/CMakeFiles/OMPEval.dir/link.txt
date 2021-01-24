@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -pthread -shared  -o OMPEval.cpython-38-x86_64-linux-gnu.so CMakeFiles/OMPEval.dir/equity.cpp.o CMakeFiles/OMPEval.dir/benchmark.cpp.o CMakeFiles/OMPEval.dir/omp/CardRange.cpp.o CMakeFiles/OMPEval.dir/omp/CombinedRange.cpp.o CMakeFiles/OMPEval.dir/omp/EquityCalculator.cpp.o CMakeFiles/OMPEval.dir/omp/HandEvaluator.cpp.o  -flto 
